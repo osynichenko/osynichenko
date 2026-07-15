@@ -12,7 +12,7 @@ IT Professional with 20+ years of experience, currently expanding into **Data An
 5.4M rows · R · ggplot2 · Tableau · Google Data Analytics Capstone
 
 **[Vehicle Registrations in Ukraine 2019–2025](https://github.com/osynichenko/ukraine-vehicle-registrations)**  
-4.5M vehicle registration operations · PostgreSQL · Tableau ·
+14.5M vehicle registration operations · PostgreSQL · Tableau ·
 
 
 ### 🔗 Connect
