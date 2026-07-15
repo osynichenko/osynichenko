@@ -11,5 +11,9 @@ IT Professional with 20+ years of experience, currently expanding into **Data An
 **[Cyclistic Bike-Share Analysis](https://github.com/osynichenko/Cyclistic_Bike_Share_Analysis)**  
 5.4M rows · R · ggplot2 · Tableau · Google Data Analytics Capstone
 
+**[Vehicle Registrations in Ukraine 2019–2025](https://github.com/osynichenko/ukraine-vehicle-registrations)**  
+4.5M vehicle registration operations · PostgreSQL · Tableau ·
+
+
 ### 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itspecotonopts/)
